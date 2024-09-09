@@ -1,0 +1,34 @@
+{
+  "data": {
+    "id": "8d7167a29497052878712e36777cd5cfb82a626cd6abe431e808394d1eaac218",
+    "type": "url",
+    "links": {
+      "self": "https://www.virustotal.com/api/v3/urls/8d7167a29497052878712e36777cd5cfb82a626cd6abe431e808394d1eaac218"
+    },
+    "attributes": {
+      "reputation": -56,
+      "threat_names": [],
+      "url": "https://usgv.usspaet.top/",
+      "total_votes": {
+        "harmless": 0,
+        "malicious": 2
+      },
+      "categories": {
+        "Forcepoint ThreatSeeker": "compromised websites",
+        "Sophos": "phishing and fraud",
+        "Webroot": "Phishing and Other Frauds",
+        "alphaMountain.ai": "Malicious, Phishing (alphaMountain.ai)"
+      },
+      "last_submission_date": 1725913017,
+      "title": "",
+      "times_submitted": 8,
+      "last_analysis_stats": {
+        "malicious": 9,
+        "suspicious": 3,
+        "undetected": 28,
+        "harmless": 56,
+        "timeout": 0
+      }
+    }
+  }
+}
